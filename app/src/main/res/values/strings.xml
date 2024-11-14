@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">User Profile App</string>
+    <string name="profile_picture_desc">User profile picture</string> <!-- Add this line -->
+</resources>
